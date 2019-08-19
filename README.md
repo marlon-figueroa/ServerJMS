@@ -13,3 +13,4 @@ https://github.com/marlon-figueroa/ServerJMS/blob/master/web/imgs/Captura%20de%2
 https://github.com/marlon-figueroa/ServerJMS/blob/master/web/imgs/Captura%20de%20pantalla%20(29).png
 https://github.com/marlon-figueroa/ServerJMS/blob/master/web/imgs/Captura%20de%20pantalla%20(30).png
 https://github.com/marlon-figueroa/ServerJMS/blob/master/web/imgs/Captura%20de%20pantalla%20(31).png
+https://github.com/marlon-figueroa/ServerJMS/blob/master/web/imgs/Captura%20de%20pantalla%20(32).png
